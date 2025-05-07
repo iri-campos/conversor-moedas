@@ -1,6 +1,6 @@
 package br.com.alura.conversormoedas.modelos;
 
-import api.TaxasCambioAPI;
+import br.com.alura.conversormoedas.api.TaxasCambioAPI;
 
 import java.io.IOException;
 import java.text.NumberFormat;

@@ -1,5 +1,5 @@
-import api.MoedasAPI;
-import api.TaxasCambioAPI;
+import br.com.alura.conversormoedas.api.MoedasAPI;
+import br.com.alura.conversormoedas.api.TaxasCambioAPI;
 import br.com.alura.conversormoedas.modelos.Conversor;
 
 import java.io.IOException;
